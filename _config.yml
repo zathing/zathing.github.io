@@ -78,7 +78,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zathing/zathing.github.io.git
+  repo: git@github.com:zathing/zathing.github.io.git
   branch: master
 
 jsonContent:
