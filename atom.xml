@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zathing.github.io/"/>
-  <updated>2019-10-17T07:20:12.544Z</updated>
+  <updated>2019-11-06T05:46:15.446Z</updated>
   <id>https://zathing.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>量子领域的经济学</title>
+    <link href="https://zathing.github.io/2019/11/06/%E9%87%8F%E5%AD%90%E9%A2%86%E5%9F%9F%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/"/>
+    <id>https://zathing.github.io/2019/11/06/量子领域的经济学/</id>
+    <published>2019-11-06T02:37:00.000Z</published>
+    <updated>2019-11-06T05:46:15.446Z</updated>
+    
+    <content type="html"><![CDATA[<p>为了抵御成年人的焦虑，我坚持每天利用上下班开车的时间听一篇「得到」专栏。近半年在听「薛兆丰的经济学课」，对于一个经济学门外汉，还是有一些启发和帮助的。<br>今天听到了一个新鲜的名词：阿罗不可能定理。没错，阿罗是提出人的名字，他是美国斯坦福大学教授「肯尼斯·阿罗」。这个定理是他在 1951 年的经济学著作「社会选择与个人价值」中提出的。</p><blockquote><p>简单来讲，「阿罗不可能定理」是指：不可能从个人偏好顺序推导出群体偏好顺序。</p></blockquote><a id="more"></a><p>我们借用知乎上「顾归」同学的例子来形象的说明下这个不可能定理。</p><blockquote><p>假设学校到了一年一度的评奖学金环节，评选标准是同学们的语文、数学、英语三门功课的综合成绩。<br>目前只有两名候选人：小明和小红，他们的成绩排序如下：</p><ul><li>语文： 小明 &gt; 小红</li><li>数学： 小明 &gt; 小红</li><li>英语： 小红 &gt; 小明<br>小明同学的语文和数学都优于小红同学，让我们恭喜小明同学胜出！<br>但是，现在突然新加入了一名候选人小刚，他们三人的成绩排序如下：</li><li>语文： 小明 &gt; 小红 &gt; 小刚</li><li>数学： 小刚 &gt; 小明 &gt; 小红</li><li>英语： 小红 &gt; 小刚 &gt; 小明<br>这样来看，小刚同学在数学和英语两门功课上都优于小明同学，但是，小红同学在语文和英语两门功课上又要优于小刚同学！<br><strong>所以，在没有小刚同学参加的情况下，小明同学优于小红同学；加入小刚同学后，小红同学竟然优于小明同学！</strong></li></ul></blockquote><p>是不是很灵异？我当时听到这一段的时候，脑子里立马浮现出了物理学界那个灵异的「双缝干涉实验」，这个实验直接将物理学带入了量子领域。<br>当然「阿罗不可能定理」与物理学的量子理论并不能相提并论，不过两者都从不同角度揭示了这个世界的不确定性。<br>不确定性不仅存在于客观的物理世界，也存在于我们生活的经济世界中。而我们的所有努力可能只是为了尽量的保证确定性。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为了抵御成年人的焦虑，我坚持每天利用上下班开车的时间听一篇「得到」专栏。近半年在听「薛兆丰的经济学课」，对于一个经济学门外汉，还是有一些启发和帮助的。&lt;br&gt;今天听到了一个新鲜的名词：阿罗不可能定理。没错，阿罗是提出人的名字，他是美国斯坦福大学教授「肯尼斯·阿罗」。这个定理是他在 1951 年的经济学著作「社会选择与个人价值」中提出的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简单来讲，「阿罗不可能定理」是指：不可能从个人偏好顺序推导出群体偏好顺序。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="科技" scheme="https://zathing.github.io/tags/%E7%A7%91%E6%8A%80/"/>
+    
+      <category term="经济" scheme="https://zathing.github.io/tags/%E7%BB%8F%E6%B5%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>VMware 的那些坑</title>

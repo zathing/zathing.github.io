@@ -4,6 +4,25 @@
 
     
   <url>
+    <loc>https://zathing.github.io/2019/11/06/%E9%87%8F%E5%AD%90%E9%A2%86%E5%9F%9F%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/</loc>
+    <lastmod>2019-11-06T05:46:15.446Z</lastmod>
+    <data>
+        <display>
+        <title>量子领域的经济学</title>
+        <pubTime>2019-11-06T02:37:00.000Z</pubTime>
+        
+        <tag>科技</tag>
+         
+        <tag>经济</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://zathing.github.io/2016/07/26/%E9%87%8C%E7%BA%A6%E5%A5%A5%E8%BF%90%EF%BC%8C%E7%BA%A6%E5%90%97%EF%BC%9F/</loc>
     <lastmod>2019-10-17T07:20:12.569Z</lastmod>
     <data>
